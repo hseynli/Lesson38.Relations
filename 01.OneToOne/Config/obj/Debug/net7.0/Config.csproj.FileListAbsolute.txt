@@ -1,0 +1,14 @@
+D:\Projects\VS Projects\01.OneToOne\Config\bin\Debug\net7.0\Config.deps.json
+D:\Projects\VS Projects\01.OneToOne\Config\bin\Debug\net7.0\Config.runtimeconfig.json
+D:\Projects\VS Projects\01.OneToOne\Config\bin\Debug\net7.0\Config.dll
+D:\Projects\VS Projects\01.OneToOne\Config\bin\Debug\net7.0\Config.pdb
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.AssemblyInfo.cs
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.dll
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\refint\Config.dll
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.pdb
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\Config.genruntimeconfig.cache
+D:\Projects\VS Projects\01.OneToOne\Config\obj\Debug\net7.0\ref\Config.dll
